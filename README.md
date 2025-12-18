@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey there, I’m Rigo!
 
-<!--
-**rigalves/rigalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer from Costa Rica 🇨🇷  
+I work with .NET + Cloud during the day.
 
-Here are some ideas to get you started:
+✝️ Christian • 💻 Software Engineer • 🧠 Lifelong learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I actually like jQuery (on purpose)
+
+---
+
+## 🚀 What I’m currently working on
+
+- 🏢 Enterprise-level cloud applications for the medical sector
+- 💒 **wtrfll** — a free, LAN-friendly scripture & lyrics controller/display app  
+  because good software shouldn’t be a luxury
+- 📖 Studying Christian apologetics
+- ✍️ Blogging about code + faith + everyday life
+- 👨‍👩‍👦‍👦 Trying to be a good husband and father
+
+---
+
+## 🔧 Tech I use regularly
+
+- **Backend:** C#, .NET (Minimal APIs, SignalR), SQLite, SQL Server  
+- **Frontend:** Vue 3, Vite, Angular, Pinia  
+- **Cloud:** AWS (Lambda, DynamoDB, SQS) and Azure  
+  (Service Bus, Logic Apps, Function Apps)
+
+---
+
+## 📌 Featured project
+
+### 🚦 wtrfll
+LAN-friendly controller + display app for projecting  
+📖 Scripture and 🎵 lyrics in church gatherings.
+
+Designed for:
+- churches with limited budgets
+- unreliable internet connections
+- volunteers who need simple tools
+
+🔗 https://github.com/rigalves/wtrfll
+
+---
+
+> “Therefore do not worry about tomorrow, for tomorrow will worry about itself.  
+> Each day has enough trouble of its own.”  
+> — Matthew 6:34
+
+---
+
+📫 **Find me around**
+- GitHub: @rigalves  
+- LinkedIn: linkedin.com/in/rigalves  
+- Blog: thatchristiancoder.com
