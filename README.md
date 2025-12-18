@@ -1,4 +1,4 @@
-# 🏄‍♂️ Pura vida!
+# 🏄‍♂️ ¡Pura vida!
 
 I’m Rigo Software developer from Costa Rica 🇨🇷  
 I work with .NET + Cloud during the day.
