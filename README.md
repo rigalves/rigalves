@@ -7,6 +7,9 @@ I work with .NET + Cloud during the day.
 
 ⚡ Fun fact: I actually like jQuery (on purpose)
 
+> **pura vida** *(Costa Rican phrase)*  
+> **Meaning:** “pure life” → used for *hello*, *goodbye*, *thanks*, and “everything’s good.” 🇨🇷
+
 ---
 
 ## 🚀 What I’m currently working on
