@@ -7,7 +7,7 @@ I work with .NET + Cloud during the day.
 
 ⚡ Fun fact: I actually like jQuery (on purpose)
 
-> **pura vida** *(CR slang)*  
+> **pura vida** *(Costa Rican slang)*  
 > `n.` “pure life” — a multipurpose phrase meaning:  
 > ✅ hello • ✅ goodbye • ✅ thanks • ✅ “all good” • ✅ “we’ll figure it out”
 
