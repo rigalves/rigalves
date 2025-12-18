@@ -1,6 +1,6 @@
-# Hey there, I’m Rigo!
+# 🏄‍♂️ Pura vida!
 
-Software developer from Costa Rica 🇨🇷  
+I’m Rigo Software developer from Costa Rica 🇨🇷  
 I work with .NET + Cloud during the day.
 
 ✝️ Christian • 💻 Software Engineer • 🧠 Lifelong learner
