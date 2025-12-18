@@ -9,7 +9,7 @@ I work with .NET + Cloud during the day.
 
 > **pura vida** *(Costa Rican slang)*  
 > `n.` “pure life” — a multipurpose phrase meaning:  
-> ✅ hello • ✅ goodbye • ✅ thanks • ✅ “all good” • ✅ “we’ll figure it out”
+> ✅ hello • ✅ goodbye • ✅ thanks • ✅ “all good” • ✅ “ooohhh… so that’s how it’s gonna be?”
 
 ---
 
