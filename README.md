@@ -1,60 +1,29 @@
-# 🏄‍♂️ ¡Pura vida!
+# Rigoberto Álvarez
 
-I’m Rigo, software developer from Costa Rica 🇨🇷  
-I work with .NET + Cloud during the day.
+Software engineer from Costa Rica 🇨🇷
 
-✝️ Christian • 💻 Software Engineer • 🧠 Lifelong learner
+I build practical software with .NET, TypeScript, cloud platforms, and a bias toward systems that keep working when things get messy.
 
-⚡ Fun fact: I actually like jQuery (on purpose)
+Lately, I’ve been going deeper into AI engineering: not just adding chat boxes, but designing useful AI-assisted workflows with clear boundaries, human review, structured outputs, and reliable system behavior.
 
-> **pura vida** *(Costa Rican slang)*  
-> `n.` “pure life” — a multipurpose phrase meaning:  
-> ✅ hello • ✅ goodbye • ✅ thanks • ✅ “all good” • ✅ “ooohhh… so that’s how it’s gonna be?”
+I’m currently building **Sunday Static Labs** — an indie software studio focused on calm, reliable tools for churches and volunteer-led teams.
 
----
+## 🌤️ wtrfll AI
 
-## 🚀 What I’m currently working on
+A local-first, AI-assisted workspace for planning, preparing, and running church services.
 
-- 🏢 Enterprise-level cloud applications for the medical sector
-- 💒 **wtrfll** — a free, LAN-friendly scripture & lyrics controller/display app  
-  because good software shouldn’t be a luxury
-- 📖 Studying Christian apologetics
-- ✍️ Blogging about code + faith + everyday life
-- 👨‍👩‍👦‍👦 Trying to be a good husband and father
+Designed for Sunday pressure and built with a volunteer-first approach:
 
----
+- 🎵 prepare lyrics, scripture, announcements, and presentations
+- 🧭 keep workflows clear for non-technical church teams
+- 🧘 reduce live-service stress for operators and volunteers
+- 📡 run safely over a local church network
+- 🙋 keep live output human-controlled
+- ✨ use AI for preparation, not autopilot
+- 🛟 remain useful when the internet is unreliable
 
-## 🔧 Tech I use regularly
+## 🔗 Links
 
-- **Backend:** C#, .NET (Minimal APIs, SignalR), SQLite, SQL Server  
-- **Frontend:** Vue 3, Vite, Angular, Pinia  
-- **Cloud:** AWS (Lambda, DynamoDB, SQS) and Azure  
-  (Service Bus, Logic Apps, Function Apps)
-
----
-
-## 📌 Featured project
-
-### 🚦 wtrfll
-LAN-friendly controller + display app for projecting  
-📖 Scripture and 🎵 lyrics in church gatherings.
-
-Designed for:
-- churches with limited budgets
-- unreliable internet connections
-- volunteers who need simple tools
-
-🔗 https://github.com/rigalves/wtrfll
-
----
-
-> “Therefore do not worry about tomorrow, for tomorrow will worry about itself.  
-> Each day has enough trouble of its own.”  
-> — Matthew 6:34
-
----
-
-📫 **Find me around**
-- GitHub: @rigalves  
-- LinkedIn: linkedin.com/in/rigalves  
-- Blog: thatchristiancoder.com
+https://sundaystaticlabs.com  
+https://thatchristiancoder.com  
+https://linkedin.com/in/rigalves
