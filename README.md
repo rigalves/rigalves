@@ -6,7 +6,7 @@ I build practical software with .NET, TypeScript, cloud platforms, and a bias to
 
 Lately, I’ve been going deeper into AI engineering: not just adding chat boxes, but designing useful AI-assisted workflows with clear boundaries, human review, structured outputs, and reliable system behavior.
 
-I’m currently building **Sunday Static Labs** — an indie software studio focused on calm, reliable tools for churches and volunteer-led teams.
+I’m currently building as **Sunday Static Labs** — an indie software studio focused on calm, reliable tools for churches and volunteer-led teams.
 
 ## 🌤️ wtrfll AI
 
